@@ -1,0 +1,24 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AdmissionLogin.master.cs" Inherits="AdmissiontSystem.PL.AdmissionLogin" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:Image ID="Image1" runat="server" Height="91px" ImageUrl="~/Images/logo.jpg" Width="98px" />
+&nbsp;<asp:Label ID="Label1" runat="server" Font-Names="Old English Text MT" Font-Size="40pt" ForeColor="#21613C" Text="Slytherin College "></asp:Label>
+        <br />
+        <br />
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+</body>
+</html>

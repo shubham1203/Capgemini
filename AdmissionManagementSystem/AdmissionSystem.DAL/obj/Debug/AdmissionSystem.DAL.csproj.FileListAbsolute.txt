@@ -1,0 +1,9 @@
+C:\Users\Shubham\Downloads\AdmissionManagementSystem\AdmissionSystem.DAL\bin\Debug\AdmissionSystem.DAL.dll
+C:\Users\Shubham\Downloads\AdmissionManagementSystem\AdmissionSystem.DAL\bin\Debug\AdmissionSystem.DAL.pdb
+C:\Users\Shubham\Downloads\AdmissionManagementSystem\AdmissionSystem.DAL\bin\Debug\AdmissionSystem.Entities.dll
+C:\Users\Shubham\Downloads\AdmissionManagementSystem\AdmissionSystem.DAL\bin\Debug\ManagementSystem.Exceptions.dll
+C:\Users\Shubham\Downloads\AdmissionManagementSystem\AdmissionSystem.DAL\bin\Debug\AdmissionSystem.Entities.pdb
+C:\Users\Shubham\Downloads\AdmissionManagementSystem\AdmissionSystem.DAL\bin\Debug\ManagementSystem.Exceptions.pdb
+C:\Users\Shubham\Downloads\AdmissionManagementSystem\AdmissionSystem.DAL\obj\Debug\AdmissionSystem.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Shubham\Downloads\AdmissionManagementSystem\AdmissionSystem.DAL\obj\Debug\AdmissionSystem.DAL.dll
+C:\Users\Shubham\Downloads\AdmissionManagementSystem\AdmissionSystem.DAL\obj\Debug\AdmissionSystem.DAL.pdb
