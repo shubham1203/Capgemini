@@ -1,5 +1,0 @@
-C:\Users\Shubham\Downloads\AdmissionManagementSystem\AdmissionSystem.Entities\bin\Debug\AdmissionSystem.Entities.dll
-C:\Users\Shubham\Downloads\AdmissionManagementSystem\AdmissionSystem.Entities\bin\Debug\AdmissionSystem.Entities.pdb
-C:\Users\Shubham\Downloads\AdmissionManagementSystem\AdmissionSystem.Entities\obj\Debug\AdmissionSystem.Entities.csprojResolveAssemblyReference.cache
-C:\Users\Shubham\Downloads\AdmissionManagementSystem\AdmissionSystem.Entities\obj\Debug\AdmissionSystem.Entities.dll
-C:\Users\Shubham\Downloads\AdmissionManagementSystem\AdmissionSystem.Entities\obj\Debug\AdmissionSystem.Entities.pdb
